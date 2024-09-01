@@ -1,5 +1,4 @@
-import getpass  # Ensure this import is present
-
+import getpass 
 print("-------------------------------------------- Task 01 Akshay --------------------------------------------------")
 print("")
 
